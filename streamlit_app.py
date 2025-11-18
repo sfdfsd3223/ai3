@@ -70,20 +70,20 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
-       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
+       "texts": ["치킨의 특징과 유래", "맛 포인트", "나라 마다 스타일 차이"],
        "images": ["https://www.mexican.co.kr/main/img/sub/chicken02.png"],
        "videos": ["https://youtu.be/XXXXXXXXXXX"]
      },
 
 
      labels[1]: {
-       "texts": ["파스타의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
+       "texts": ["파스타의 특징과 유래", "맛 포인트", "나라 마다 스타일 차이"],
        "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
        "videos": ["https://youtu.be/XXXXXXXXXXX"]
      },    
 
-     labels[1]: {
-       "texts": ["파스타의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
+     labels[2]: {
+       "texts": ["피자의 특징과 유래", "맛 포인트", "나라 마다 스타일 차이"],
        "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
        "videos": ["https://youtu.be/XXXXXXXXXXX"]
      },    
