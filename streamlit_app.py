@@ -203,7 +203,7 @@ if st.session_state.img_bytes:
         if not any([texts, images, videos]):
             st.info(f"라벨 `{info_label}`에 대한 콘텐츠가 아직 없습니다. 코드의 CONTENT_BY_LABEL에 추가하세요.")
         else:
-            # 맛의특징
+            # 텍스트
             if texts:
                 st.markdown('<div class="info-grid">', unsafe_allow_html=True)
                 for t in texts:
