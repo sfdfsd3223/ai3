@@ -78,7 +78,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[1]: {
        "texts": ["파스타의 특징과 유래", "맛 포인트", "나라 마다 스타일 차이"],
-       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://static.wtable.co.kr/image/production/service/recipe/1767/f55d5c26-330d-46e4-90cd-7579da839914.jpg?size=800x800"],
        "videos": ["https://youtu.be/XXXXXXXXXXX"]
      },    
 
