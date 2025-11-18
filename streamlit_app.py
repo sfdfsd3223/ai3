@@ -72,20 +72,20 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
        "texts": ["치킨의 특징과 유래", "맛 포인트", "나라 마다 스타일 차이"],
        "images": ["https://www.mexican.co.kr/main/img/sub/chicken02.png"],
-       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+       "videos": ["https://www.youtube.com/watch?v=6OugH2W1cG8"]
      },
 
 
      labels[1]: {
        "texts": ["파스타의 특징과 유래", "맛 포인트", "나라 마다 스타일 차이"],
        "images": ["https://static.wtable.co.kr/image/production/service/recipe/1767/f55d5c26-330d-46e4-90cd-7579da839914.jpg?size=800x800"],
-       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+       "videos": ["https://www.youtube.com/watch?v=_-BuLToPd2M"]
      },    
 
      labels[2]: {
        "texts": ["피자의 특징과 유래", "맛 포인트", "나라 마다 스타일 차이"],
-       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+       "images": ["https://cdn.dominos.co.kr/admin/upload/goods/20200311_x8StB1t3.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=InTPhrn_pmA"]
      },    
 }
 
